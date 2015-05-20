@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_AU_Ikf5nEeSfFuHA3ei3pA" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_AU_Ikv5nEeSfFuHA3ei3pA" bindingContexts="_AU_IlP5nEeSfFuHA3ei3pA">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SQLiteJDBC.java&quot; tooltip=&quot;C:\Users\David\Documents\GitHub\Com_Ven\src\SQLiteJDBC.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/David/Documents/GitHub/Com_Ven/src/SQLiteJDBC.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;main.java&quot; tooltip=&quot;C:\Users\David\Documents\GitHub\Com_Ven\src\main.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/David/Documents/GitHub/Com_Ven/src/main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Frame.java&quot; tooltip=&quot;C:\Users\David\Documents\GitHub\Com_Ven\src\Frame.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/David/Documents/GitHub/Com_Ven/src/Frame.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wb.core.guiEditor&quot; name=&quot;Main.java&quot; tooltip=&quot;comven/Com_Ven-master/Main.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/comven/Com_Ven-master/Main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.egit.ui.internal.commit.CommitEditorInputFactory&quot; id=&quot;org.eclipse.egit.ui.commitEditor&quot; name=&quot;78ead35a [Com_Ven]&quot; tooltip=&quot;&amp;apos;1: Task 1 - Add New Event &amp;apos; - Commit in repository Com_Ven&quot;>&#xD;&#xA;&lt;persistable commit=&quot;78ead35a63540d759e7575ce44e336127da4b397&quot; path=&quot;C:\Users\David\Documents\GitHub\Com_Ven\.git&quot; stash=&quot;false&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;main.java&quot; tooltip=&quot;C:\Users\David\Documents\GitHub\Com_Ven\src\main.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/David/Documents/GitHub/Com_Ven/src/main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wb.core.guiEditor&quot; name=&quot;Main.java&quot; tooltip=&quot;comven/Com_Ven-master/Main.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/comven/Com_Ven-master/Main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SQLiteJDBC.java&quot; tooltip=&quot;C:\Users\David\Documents\GitHub\Com_Ven\src\SQLiteJDBC.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/David/Documents/GitHub/Com_Ven/src/SQLiteJDBC.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Frame.java&quot; tooltip=&quot;C:\Users\David\Documents\GitHub\Com_Ven\src\Frame.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/David/Documents/GitHub/Com_Ven/src/Frame.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.egit.ui.internal.commit.CommitEditorInputFactory&quot; id=&quot;org.eclipse.egit.ui.commitEditor&quot; name=&quot;78ead35a [Com_Ven]&quot; tooltip=&quot;&amp;apos;1: Task 1 - Add New Event &amp;apos; - Commit in repository Com_Ven&quot;>&#xD;&#xA;&lt;persistable commit=&quot;78ead35a63540d759e7575ce44e336127da4b397&quot; path=&quot;C:\Users\David\Documents\GitHub\Com_Ven\.git&quot; stash=&quot;false&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_AU_Ikv5nEeSfFuHA3ei3pA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_Aeebwv5nEeSfFuHA3ei3pA" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
@@ -99,7 +99,7 @@
                 <children xsi:type="advanced:Placeholder" xmi:id="_AtYafP5nEeSfFuHA3ei3pA" elementId="org.eclipse.egit.ui.RepositoriesView" ref="_AtWlQP5nEeSfFuHA3ei3pA"/>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_AtYaff5nEeSfFuHA3ei3pA" containerData="9000" selectedElement="_AtYafv5nEeSfFuHA3ei3pA">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_AtYaff5nEeSfFuHA3ei3pA" containerData="9000" selectedElement="_AtYah_5nEeSfFuHA3ei3pA">
               <children xsi:type="basic:PartSashContainer" xmi:id="_AtYafv5nEeSfFuHA3ei3pA" containerData="7500" selectedElement="_AtYaf_5nEeSfFuHA3ei3pA" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_AtYaf_5nEeSfFuHA3ei3pA" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_AtH7wP5nEeSfFuHA3ei3pA"/>
                 <children xsi:type="basic:PartSashContainer" xmi:id="_AtYagP5nEeSfFuHA3ei3pA" visible="false" containerData="2500" selectedElement="_AtYag_5nEeSfFuHA3ei3pA">
@@ -211,27 +211,33 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_AtH7wP5nEeSfFuHA3ei3pA" elementId="org.eclipse.ui.editorss" selectedElement="_AtH7wf5nEeSfFuHA3ei3pA">
-      <children xsi:type="basic:PartStack" xmi:id="_AtH7wf5nEeSfFuHA3ei3pA" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_ugeFAP7dEeSr5eJbfQnhSA">
+      <children xsi:type="basic:PartStack" xmi:id="_AtH7wf5nEeSfFuHA3ei3pA" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_GxHbgP6IEeSPTPKvyuWcAg">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_uDl7wP7dEeSr5eJbfQnhSA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Frame.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
+        <children xsi:type="basic:Part" xmi:id="_2WRPIP6GEeSgwNf_hlqhcQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Frame.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Frame.java&quot; partName=&quot;Frame.java&quot; title=&quot;Frame.java&quot; tooltip=&quot;C:\Users\David\Documents\GitHub\Com_Ven\src\Frame.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/David/Documents/GitHub/Com_Ven/src/Frame.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_uW4EIP7dEeSr5eJbfQnhSA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="main.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;main.java&quot; partName=&quot;main.java&quot; title=&quot;main.java&quot; tooltip=&quot;C:\Users\David\Documents\GitHub\Com_Ven\src\main.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/David/Documents/GitHub/Com_Ven/src/main.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_2gwA0P6GEeSgwNf_hlqhcQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="main.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;main.java&quot; partName=&quot;main.java&quot; title=&quot;main.java&quot; tooltip=&quot;C:\Users\David\Documents\GitHub\Com_Ven\src\main.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/David/Documents/GitHub/Com_Ven/src/main.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;31&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_ugeFAP7dEeSr5eJbfQnhSA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SQLiteJDBC.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SQLiteJDBC.java&quot; partName=&quot;SQLiteJDBC.java&quot; title=&quot;SQLiteJDBC.java&quot; tooltip=&quot;C:\Users\David\Documents\GitHub\Com_Ven\src\SQLiteJDBC.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/David/Documents/GitHub/Com_Ven/src/SQLiteJDBC.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;48&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_2oEw0P6GEeSgwNf_hlqhcQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SQLiteJDBC.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SQLiteJDBC.java&quot; partName=&quot;SQLiteJDBC.java&quot; title=&quot;SQLiteJDBC.java&quot; tooltip=&quot;C:\Users\David\Documents\GitHub\Com_Ven\src\SQLiteJDBC.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/David/Documents/GitHub/Com_Ven/src/SQLiteJDBC.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;73&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_GxHbgP6IEeSPTPKvyuWcAg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Main.java" iconURI="platform:/plugin/org.eclipse.wb.core.ui/icons/gui_editor.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wb.core.guiEditor&quot; name=&quot;Main.java&quot; partName=&quot;Main.java&quot; title=&quot;Main.java&quot; tooltip=&quot;comven/Com_Ven-master/Main.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/comven/Com_Ven-master/Main.java&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.wb.core.guiEditor</tags>
           <tags>removeOnHide</tags>
           <tags>active</tags>
           <tags>activeOnClose</tags>
@@ -402,7 +408,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_AkT-AP5nEeSfFuHA3ei3pA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_hwmAcP7aEeSr5eJbfQnhSA" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_AVb0jP5nEeSfFuHA3ei3pA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_yB-Zsf7ZEeSwZINuSVHZpQ" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_AVb0jP5nEeSfFuHA3ei3pA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_AkUlEP5nEeSfFuHA3ei3pA" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -411,7 +417,7 @@
       <children xsi:type="menu:ToolBar" xmi:id="_ajC1QP6FEeSgwNf_hlqhcQ" elementId="org.eclipse.team.ui.actionSet" visible="false">
         <tags>Draggable</tags>
       </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_WURkMP6EEeS4cp0-iDpV9w" elementId="org.eclipse.ui.edit.text.actionSet.presentation">
+      <children xsi:type="menu:ToolBar" xmi:id="_WURkMP6EEeS4cp0-iDpV9w" elementId="org.eclipse.ui.edit.text.actionSet.presentation" visible="false">
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_A4qdYP5nEeSfFuHA3ei3pA" elementId="adt.actionSet.avdManager">
@@ -438,7 +444,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_AkVMIP5nEeSfFuHA3ei3pA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_hwpDw_7aEeSr5eJbfQnhSA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_AVbNiv5nEeSfFuHA3ei3pA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_yCCrIP7ZEeSwZINuSVHZpQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_AVbNiv5nEeSfFuHA3ei3pA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_jOSi8P7ZEeSp7ODaHmujng" elementId="org.eclipse.wb.core.guiEditor" visible="false">
         <tags>Draggable</tags>
